@@ -1,7 +1,7 @@
 body {
   font-family: "Mina";
-  background-color: #e5d9f2;
-  color: #2e073f;
+  background-color: #96d7ff;
+  color: #071c3f;
 }
 
 #about,
@@ -10,7 +10,7 @@ body {
 #exp {
   width: 60%;
   margin: 30px auto;
-  background-color: #f5efff;
+  background-color: #eff8ff;
   padding: 30px;
   border-radius: 6px;
 }
@@ -27,7 +27,7 @@ body {
 
 .project,
 .job {
-  background: #e5d9f2;
+  background: #d9ddf2;
   margin: 0 auto;
   margin-bottom: 30px;
   width: 75%;
@@ -41,9 +41,9 @@ body {
 
 button {
   padding: 0.4rem 0.8rem;
-  border: 0.2rem solid #2e073f;
+  border: 0.2rem solid #070f3f;
   border-radius: 0.2rem;
-  background-color: #2e073f;
+  background-color: #071d3f;
   color: #e5d9f2;
   font-size: 1.4rem;
   font-weight: bold;
@@ -54,5 +54,5 @@ button {
 
 button:hover {
   background-color: #e5d9f2;
-  color: #2e073f;
+  color: #07113f;
 }
